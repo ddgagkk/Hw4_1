@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hw4_1</string>
+    <string name="click_here" translatable="false">Ân đây</string>
+    <string name="do_something" translatable="false">Làm gì</string>
+    <string name="have_fun" translatable="false">Hãy vui</string>
+    <string name="surpries" translatable="false">Ngạc nhiên chưa</string>
+</resources>

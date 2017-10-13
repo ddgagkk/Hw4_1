@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="noname.hw4_1.MainActivity">
+
+    <Button
+        android:id="@+id/btnHaveFun"
+        style="@style/ButtonStyle"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/have_fun" />
+
+    <Button
+        android:id="@+id/btnDoSmt"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        style="@style/ButtonStyle"
+        android:text="@string/do_something"
+        />
+    <Button
+        android:id="@+id/btnClickhere"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        style="@style/ButtonStyle"
+        android:text="@string/click_here"
+        />
+    <Button
+        android:id="@+id/btnSurprise"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        style="@style/ButtonStyle"
+        android:text="@string/surpries"
+        />
+</LinearLayout>

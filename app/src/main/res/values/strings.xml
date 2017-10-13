@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Hw4_1</string>
+    <string name="have_fun" translatable="false">Have Fun</string>
+    <string name="do_something" translatable="false">Do Something</string>
+    <string name="click_here" translatable="false">Click Here</string>
+    <string name="surpries" translatable="false">Surprise</string>
+</resources>
